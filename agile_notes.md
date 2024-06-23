@@ -20,7 +20,7 @@ SCRUM based on three principles
 
 ![scrum skeleton](images/image.png)
 
-###### Four formal events:
+##### Four formal events:
 
 - Sprint planning
 - Daily Scrum (coordination)
@@ -84,7 +84,7 @@ Explanation: Development Teams are structured and empowered by the organization 
 
 Definition: Kanban is a method for managing the creation of products with an emphasis on continuous delivery without overburdening the development team.
 
-###### Key Differences:
+##### Key Differences:
 
 Kanban uses a visual board to represent work and its flow.
 There are no fixed iterations; work is continuously pulled from a backlog.
@@ -109,38 +109,38 @@ Emphasizes frequent releases in short development cycles.
 
 ##### Why Choose Scrum Over Other Agile Frameworks?
 
-###### Simplicity and Structure:
+##### Simplicity and Structure:
 
 Scrum provides a simple and flexible framework for teams to manage their work. It includes well-defined roles, events, and artifacts, which make it easier for teams to adopt and practice.
 Emphasis on Team Collaboration: Scrum encourages close collaboration among team members, fostering better communication and teamwork.
 
-###### Regular Feedback and Improvement:
+##### Regular Feedback and Improvement:
 
 The iterative nature of Scrum, with regular sprints and reviews, allows teams to receive frequent feedback and make continuous improvements.
 
-###### Clear Roles and Responsibilities:
+##### Clear Roles and Responsibilities:
 
 Scrum clearly defines roles (Scrum Master, Product Owner, Development Team), which helps avoid confusion and ensures accountability.
 Focus on Delivering Value: Scrum prioritizes work based on business value, ensuring that the most valuable features are developed and delivered first.
 
 ##### Why Scrum is the Best Choice for Developing an Application
 
-###### Adaptability:
+##### Adaptability:
 
 Scrum's iterative approach allows teams to adapt to changing requirements and priorities, which is crucial in application development where customer needs can evolve.
 
-###### Risk Management:
+##### Risk Management:
 
 By delivering work in small, manageable increments, Scrum reduces the risk of project failure and ensures that any issues are identified and addressed early.
 
-###### Transparency:
+##### Transparency:
 
 Scrum promotes transparency through daily stand-ups, sprint reviews, and retrospectives, ensuring that all stakeholders are informed and engaged.
 
-###### Customer Satisfaction:
+##### Customer Satisfaction:
 
 Regularly delivering functional increments allows for early user feedback and higher customer satisfaction, as they can see and use the product as it develops.
 
-###### Continuous Improvement:
+##### Continuous Improvement:
 
 Scrum's focus on retrospectives encourages teams to continuously reflect and improve their processes, leading to higher efficiency and better outcomes over time.
