@@ -1,8 +1,35 @@
 # Manifesto for Agile Software Development
 
-<!-- Agile Scrum Certification Report
-Introduction
-This report is designed to provide comprehensive answers to all Agile and Scrum-related keywords, definitions, and explanations. Additionally, it will compare various Agile frameworks, justify the choice of Scrum over others, and explain why Scrum is the best choice for developing an application. -->
+- Individuals and interaction _over_ -> processes and tools
+- Working software _over_ -> comprehensive documentation
+- Customer collaboration _over_ -> contract negotiation
+- Responding to change _over_ -> following a plan
+
+What is SCRUM -> a framework for developing and sustaining complex products.
+
+- iterative and
+- incremental - control theory
+
+SCRUM based on three principles
+
+1. Transparency (done means done)
+2. Inspections (check on progress)
+3. Adaptation (change the product based on inspection)
+
+##### Scrum Skeleton
+
+![scrum skeleton](images/image.png)
+
+###### Four formal events:
+
+- Sprint planning
+- Daily Scrum (coordination)
+- Sprint Review (make sure shareholders have conversation with team)
+- Sprint Retrospective (make sure you improve)
+
+> The product owner is the sole person responsible for managing the Product Backlog
+
+---
 
 ### Agile and Scrum Keywords with Definitions and Explanations
 
