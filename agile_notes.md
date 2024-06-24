@@ -43,6 +43,8 @@ Key Point:
 
 > The product owner is the sole person responsible for managing the Product Backlog
 
+![scrum team roles sum](/images/team_roles_sum.png)
+
 ---
 
 ### Agile and Scrum Keywords with Definitions and Explanations
