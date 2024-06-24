@@ -45,6 +45,25 @@ Key Point:
 
 ![scrum team roles sum](/images/team_roles_sum.png)
 
+### Scrum Events
+
+- **Sprint** (the heart of scrum): time during which team built a releasable increment of the product. New sprint starts immediately after the conclusion of the previous Sprint.
+- **Sprint planning meeting**: team plan the work for the sprint, 4 hours meeting for a two week sprint, 2 topics: "The What"(needs to be done) and "The How"(work will get done) - where team breaking stories into tasks.
+  ![Sprint Planning Meeting](/images/Sprint_Planning_Meeting.png)
+- **Daily Scrum** (Stand up): SM, Team. 15 min, 3 Questions: 1. What did i do yesterday 2. What will i do 3. Which impediments prevent me from meeting the goal. Scrum master can take notes of any impediments and aim to resolve them as quickly as possible. Any issues can be discussed afterwards. Backlog and burndown are visible. Held at the same place every day to Reduce complexity.
+  ![Daily Scrum](/images/Daily_Scrum.png)
+- **Sprint Review**: 4hr max. Held at the end of each sprint and allows to demo the increment of the product. Stakeholders ask questions and make suggestions to the product owner. PO make notes to a product backlog and based on suggestions may update it after.
+  ![Sprint Review](/images/Sprint_Review.png)
+- **Sprint Retrospective**: PO, SM, Team. Meeting held after the Sprint Review and before the next Sprint. Everyone answer the questions: 1. What worked in this sprint? 2. What could be improved in the next sprint? This is a chance for the team to inspect and adapt, it generates continuous improvement.
+  ![Sprint Retrospective](/images/Sprint_Retrospective.png)
+
+All event are time-boxed (every event has a max duration) - used to create regularity and minimize the need for meetings not defined in Scrum.
+
+**Spring Goal** - objective that will be met within the sprint through the implementation of the Product Backlog.
+![scrum events summary](/images/scrum_events_summary_img.png)
+
+### Scrum Artifacts
+
 ---
 
 ### Agile and Scrum Keywords with Definitions and Explanations
