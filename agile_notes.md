@@ -64,6 +64,14 @@ All event are time-boxed (every event has a max duration) - used to create regul
 
 ### Scrum Artifacts
 
+... represent work or value to provide transparency and opportunities for inspection and adaptation.
+
+- **Product Backlog**: List of all the features that product owner would like to see in the finished product. Constantly evolves and changes over time. PO works with stakeholders to form requirements and with the team to get suggestions, tech input and estimates.
+- _Burndown & Burnup_ charts: monitoring the progress of a release
+- **Sprint Backlog** & Burndown: selection from prod backlog picked by the PO and committed by the dev team. Consists of features tasks and their estimated, monitoring the progress.
+- **Releasable Product Increment**: piece of functionality delivered by the team at the end of each sprint. should meet team's DOD
+  ![Scrum Artifacts sum](/images/Scrum_Artifacts_sum.png)
+
 ---
 
 ### Agile and Scrum Keywords with Definitions and Explanations
