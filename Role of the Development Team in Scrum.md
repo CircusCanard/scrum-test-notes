@@ -1,5 +1,7 @@
 ### Role of the Development Team in Scrum
 
+![Development Team](/images/Development_Team.png)
+
 **The Development Team** in Scrum is responsible for delivering a potentially releasable increment of the product at the end of each sprint. The team is self-organizing, cross-functional, and collectively accountable for the work done. They possess all the skills necessary to create the product increment without relying on external help.
 ![alt text](/images/dev_team_part.png)
 

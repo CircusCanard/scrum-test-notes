@@ -1,5 +1,7 @@
 ### Role of the Product Owner in Scrum
 
+![Product Owner](/images/Product_Owner.png)
+
 **The Product Owner (PO)** is a key role in Scrum responsible for maximizing the value of the product resulting from the work of the Development Team. The PO is the bridge between stakeholders and the Scrum Team, ensuring that the team works on the most valuable features. Here’s a detailed breakdown of the PO’s responsibilities and their role in various Scrum events.
 
 **Responsibilities of the Product Owner**

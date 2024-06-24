@@ -1,5 +1,7 @@
 ### Role of the Scrum Master in Scrum
 
+![Scrum Master](/images/Scrum_Master.png)
+
 The Scrum Master is a facilitator and coach who ensures that the Scrum framework is followed and helps the team improve their practices. The Scrum Master serves the Scrum Team, the Product Owner, and the organization by promoting and supporting Scrum as defined in the Scrum Guide.
 
 **Responsibilities of the Scrum Master**

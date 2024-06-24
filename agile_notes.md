@@ -5,15 +5,29 @@
 - Customer collaboration _over_ -> contract negotiation
 - Responding to change _over_ -> following a plan
 
-What is SCRUM -> a framework for developing and sustaining complex products.
+**What is SCRUM** -> a framework for developing and sustaining complex products.
+**SCRUM consist of** -> Self organizing, cross functional teams.
+
+**Scrum Theory:**
+Based on Empirical Process **Control Theory**
 
 - iterative and
-- incremental - control theory
+- incremental
 
-SCRUM based on three principles
+Key Point:
 
-1. Transparency (done means done)
+- Learning from past mistakes
+- Improving
+- Making new decisions
+- Making changes (adapting)
+
+**SCRUM based on three principles**
+
+1. Transparency (done means done):
+   being 'open' & 'honest' as a team
+   task is really 'DONE' when it's done
 2. Inspections (check on progress)
+   two weeks is optimal for the team to gain momentum
 3. Adaptation (change the product based on inspection)
 
 ##### Scrum Skeleton
